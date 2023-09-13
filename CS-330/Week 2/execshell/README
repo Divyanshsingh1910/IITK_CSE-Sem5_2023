@@ -1,0 +1,11 @@
+syscall.c ==> Different ways to invoke system calls
+prefork.c ==> basic behavior of fork
+fork.c ==> fork with PIDs of child and parent
+ 
+Before executing exec,  create 2.out from 2.c as shown below,
+
+$ gcc 2.c -o 2.out
+
+exec.c ==>  basic behavior of exec
+fork_exec.c ==> fork with exec
+fork_exec_wait.c ==> fork + exec + parent wait
