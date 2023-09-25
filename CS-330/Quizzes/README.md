@@ -24,20 +24,20 @@
 
 ### Quiz 3
 
-	Q1.  (i) A, B, E
-         (ii) A, C, D, E
-
-	Q2.
-
-	(i) False. The OS may intervene if the address in RBX is invalid (OR not mapped in the translation tables).  In such a case, the hardware will raise a fault and the OS is required to handle that.
-
-	(ii) False. If the kernel stack of the parent is not replicated during the execution of fork() , the saved user state of the parent process (at the time of fork) will not be copied to the child process. This may result in child not resuming at the same point as the parent and will break the fork() semantics.
+		Q1.  (i) A, B, E
+	         (ii) A, C, D, E
+	
+		Q2.
+	
+		(i) False. The OS may intervene if the address in RBX is invalid (OR not mapped in the translation tables).  In such a case, the hardware will raise a fault and the OS is required to handle that.
+	
+		(ii) False. If the kernel stack of the parent is not replicated during the execution of fork() , the saved user state of the parent process (at the time of fork) will not be copied to the child process. This may result in child not resuming at the same point as the parent and will break the fork() semantics.
 
 ### Quiz 4
 
-	1. ABCDE
-	2. ACE
-	3. True/False
-	4. True/False
+		1. ABCDE
+		2. ACE
+		3. True/False
+		4. True/False
 ***
 **Note**: *Answer fo quiz 4 is not verified with instructor but most probably it is correct*
