@@ -1,0 +1,22 @@
+
+
+	########### 	VM Area Details 	################
+	VM_Area:[1]		MMAP_Page_Faults[0]
+
+	[0x180201000	0x180202000] #PAGES[1]	R W _
+
+	###############################################
+
+
+
+	########### 	VM Area Details 	################
+	VM_Area:[2]		MMAP_Page_Faults[0]
+
+	[0x180201000	0x180202000] #PAGES[1]	R W _
+	[0x180202000	0x180203000] #PAGES[1]	R _ _
+
+	###############################################
+
+VM_Area:[1]	MMAP_Page_Faults[0]
+VM_Area:[0]	MMAP_Page_Faults[0]
+

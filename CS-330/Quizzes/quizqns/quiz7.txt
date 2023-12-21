@@ -1,0 +1,21 @@
+Answer the following questions. No explanation required. (5 + 5)
+Q1.
+   int X = 10000;
+   deposit(){                        withdraw(){            
+       X = X + 100;                       X = X - 100;
+   }                                 }
+   On a given multi-processor system, two threads T1 and T2 are concurrently executing. T1 invokes 'deposit' K times and T2 invokes 'withdraw' K times during their respective lifetimes. Assuming non-atomic variable X, non-atomic add/subtract operation and no integer overflow during the execution, what will be the value (or range) of X when both the threads finish their execution?
+
+Q2. Consider the following pseudocode.
+    int gvar = 0;    //gvar is not atomic
+    sem_init(S, 7);  // Initialize the semaphore S with value 7
+    doit(){
+        sem_wait(S);
+        sem_wait(S);
+        gvar++;      //'++' is not atomic
+        sem_post(S);
+        sem_post(S);
+    }
+  What is the minimum and maximum value of 'gvar' when four threads execute 'doit' concurrently? 
+
+

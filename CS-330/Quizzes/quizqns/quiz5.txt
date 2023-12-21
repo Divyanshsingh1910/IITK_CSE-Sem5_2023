@@ -1,0 +1,19 @@
+Q1. Select the correct answer(s) for the following questions. (2 x 3)
+(i) The CR3 register points to the base (level-1) of the page table. Which of the following statement(s) is are true?
+    A) At the time of process context switch, CR3 register is updated    
+    B) At the time of user-to-OS context switch, CR3 register is updated     
+    C) At the time of user-to-OS context switch, CR3 register is updated only if OS uses a separate address space for itself.      
+    D) At the time of OS-to-user context switch, CR3 register is updated     
+    E) At the time of OS-to-user context switch, CR3 register is updated only if OS uses a separate address space for itself.      
+(ii) A process P executes mmap() system call successfully to allocate
+     1GB virtual memory. During mmap() system call handling, the OS 
+ A) must have manipulated the address space state (in PCB) of the process
+ B) must have manipulated the page table entries of the process
+ C) may not have changed the page table of the process in any manner
+ D) may not have changed the address space state (in PCB) of the process  
+ E) may not have performed any physical memory allocation  
+
+Q2. True or False with justification. No marks without proper justification. (2 x 2)
+(i) When using translation at address space granularity, memory allocation system calls such 
+    as brk() and mmap() are not required to be supported by the OS. 
+(ii) Two processes in a single CPU system can not use overlapping physical memory addresses while using segmentation.       

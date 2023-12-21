@@ -1,0 +1,7 @@
+Main number:10
+Child pid:2
+Child number:100
+Parent pid:1
+Parent number:10
+cow fault: 0x3 
+Testcase passed

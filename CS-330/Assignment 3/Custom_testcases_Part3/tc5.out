@@ -1,0 +1,17 @@
+Main number:10
+Child child pid:3
+Child child number:100
+Child parent pid:2
+Child parent number:100
+Parent child pid:4
+Parent child number:100
+Parent parent pid:1
+Parent parent number:10
+cow fault: 0xD pid 0x3
+Testcase passed
+cow fault: 0xD pid 0x2
+Testcase passed
+cow fault: 0xD pid 0x4
+Testcase passed
+cow fault: 0xD pid 0x1
+Testcase passed

@@ -1,0 +1,63 @@
+Main number:10
+pid return: 0 pid: 2 va: 11
+pid return: 0 pid: 3 va: 12
+pid return: 0 pid: 4 va: 13
+pid return: 0 pid: 5 va: 14
+pid return: 2 pid: 1 va: 11
+pid return: 3 pid: 2 va: 12
+pid return: 4 pid: 3 va: 13
+pid return: 5 pid: 4 va: 14
+pid return: 0 pid: 6 va: 12
+pid return: 0 pid: 7 va: 13
+pid return: 0 pid: 8 va: 14
+pid return: 0 pid: 10 va: 14
+pid return: 6 pid: 1 va: 12
+pid return: 7 pid: 2 va: 13
+pid return: 8 pid: 3 va: 14
+pid return: 9 pid: 6 va: 13
+pid return: 10 pid: 7 va: 14
+pid return: 0 pid: 9 va: 13
+pid return: 0 pid: 11 va: 13
+pid return: 0 pid: 12 va: 14
+pid return: 0 pid: 14 va: 14
+pid return: 11 pid: 1 va: 13
+pid return: 12 pid: 2 va: 14
+pid return: 13 pid: 6 va: 14
+pid return: 14 pid: 9 va: 14
+pid return: 0 pid: 13 va: 14
+pid return: 0 pid: 15 va: 14
+pid return: 16 pid: 1 va: 14
+pid return: 15 pid: 11 va: 14
+pid return: 0 pid: 16 va: 14
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed
+cow fault: 0x5A 
+Testcase passed

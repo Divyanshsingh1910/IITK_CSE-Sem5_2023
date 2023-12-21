@@ -1,0 +1,8 @@
+Q1. Consider an indexed file allocation similar to the Ext2 file system. The file block index structures contained in the inode are as follows: eight direct block addresses, four single-indirect block addresses, and two double-indirect block addresses. The file system block size is 4KB and block address is 32-bits.
+
+(i)  What is the maximum disk size supported by this file system?
+(ii) What is the maximum file size supported by this file system?
+(iii) If a process reads a block at file offset 512MB of a 2GB file how many disk blocks will be read in total?
+(iv) If a process requests to read a single block from a file of size 5GB at a random file offset (4KB aligned), calculate the minimum and maximum size of disk read required to serve the request? 
+
+For (iii) and (iv), assume that only the disk inode corresponding to the file is present (cached) in memory.
