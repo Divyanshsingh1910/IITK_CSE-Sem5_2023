@@ -12,5 +12,7 @@ This repository documents the contents of all the courses in the 5th semester of
 * CS-771 : Introduction to Machine Learning
 * ESO-201: Thermodynamics
 
-*This courses are currently ongoing and the repository is being regularly updated.*
+    _I had my last exam on 23rd November and currently done with this semester. I am planning to add the course reviews here soon._ `(21st December)`
+
+
 

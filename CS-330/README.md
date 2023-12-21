@@ -19,4 +19,4 @@
     * `Week 6`: OS mode execution, Scheduling
     * `Week 7`: Scheduling Policy
 
-**Note**: _This repository is being updated as the course progress_
+**Note**: _This repository is being updated_

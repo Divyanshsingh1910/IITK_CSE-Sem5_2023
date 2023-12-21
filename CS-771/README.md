@@ -15,4 +15,3 @@
 * Lecture Slides PPT
     + Class Notes in ppt format
 
-**Note**: _This repository is being updated as the course progress_

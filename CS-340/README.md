@@ -13,5 +13,3 @@
 
 
 **Note**: This course didn't have any website as such as the class notes were completely from the [book](Dexter_C_Kozen_Automata_and_Computabilit.pdf)
-
-_This repository is being updated as the course progress_

@@ -16,4 +16,3 @@
 
 **Note**: This course has a temorary website which only the course students can access.
 
-_This repository is being updated as the course progress_
