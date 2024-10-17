@@ -39,5 +39,29 @@
 		2. ACE
 		3. True/False
 		4. True/False
-***
 **Note**: *Answer fo quiz 4 is not verified with instructor but most probably it is correct*
+
+### Quiz 5
+I actually the lost the actual answers, but I guess it won't be that hard to solve. Maybe someone can come up with answers & add here?🥺
+
+### Quiz 6
+		Q1.
+		(i) {1 + (2 ^ 11) + (2 ^ 22)} * 16KB
+		(ii) 2 ^ 25 = 32MB
+		(iii) 0x4000000000 - 0x4FFFFFFFFF (4*2^36 - (5*2^36-1))
+		(iv) 2 ^ 69 bytes
+		(v) Min: 0 Max: (2 ^ 5 + 4) * 16KB 
+
+### Quiz 7
+
+		Q1. X belongs to S where S={x: x=100n and 10000 - 100K <= x <= 10000 + 100K, where n is an integer}
+		Q2. Minimum = 1, Maximum = 4
+
+### Quiz 8
+		Q1. 
+  		(i) 2^32 * 4KB = 16TB
+	      	(ii) (8 + 4*1024 + 2*1024*1024) * 4KB = 8GB + 16MB + 32KB 
+	      	(iii) three disk blocks (12KB)
+	      	(iv) min: 4KB    max: 12KB
+
+---
