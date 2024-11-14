@@ -1,5 +1,0 @@
-Child mm1[0]:A
-Child mm1[1]:B
-Parent mm1[0]:A
-Parent mm1[1]:B
-cow fault testcase passed

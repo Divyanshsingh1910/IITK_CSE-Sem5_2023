@@ -1,2 +1,0 @@
-This is a simple file with sample text
-I hope this will be fine.
