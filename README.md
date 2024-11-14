@@ -26,3 +26,4 @@ Hi 👋, few folks from the current ongoind batch were approaching for some miss
     - [CSE Sem-7 2024-25 (ongoing)](https://github.com/Divyanshsingh1910/IITK-sem-7-2024)
 - _Disclaimer_: This was the last semester which I documented consistently. Sem-6 was really hard because of compiler+linux(+ 10 other reasons) and the repo is a mess. Although, I will try to improve it when I am free.
 sem-7 is hard i guess :/
+# OS-CS330-2023
