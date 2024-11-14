@@ -1,0 +1,3 @@
+[submodule "CS-330"]
+	path = CS-330
+	url = git@github.com:Divyanshsingh1910/OS-CS330-2023.git
