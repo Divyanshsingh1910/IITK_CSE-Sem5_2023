@@ -15,6 +15,13 @@ This repository documents the contents of all the courses in the 5th semester of
 <!--    _I had my last exam on 23rd November and currently done with this semester. I am planning to add the course reviews here soon._ `(21st December)`
 -->
 ---
+#### $$20^{th}$$ Aug'25
+- Hi, let me know if anyone is using this repo (even without OS 🙊). But, I am sure you can find it, if you are really in CS
+Also, prof knows about this so probably material must have changed a lot
+---
+#### $$14^{th}$$ Nov'24 (Edit)
+- OS has been removed since it is not allowed host it's material publicly.
+---
 #### $$15^{th}$$ Sept'24 (Edit)
 Hi 👋, few folks from the current ongoind batch were approaching for some missing files so... <br>
 - **_Note1_**: If you find something incorrect or need some assgn/exam/resource paper which is not currently in this repo then feel free to create an issue and I will try to fetch/correct that doc to the best I can.
@@ -26,7 +33,5 @@ Hi 👋, few folks from the current ongoind batch were approaching for some miss
     - [CSE Sem-7 2024-25 (ongoing)](https://github.com/Divyanshsingh1910/IITK-sem-7-2024)
 - _Disclaimer_: This was the last semester which I documented consistently. Sem-6 was really hard because of compiler+linux(+ 10 other reasons) and the repo is a mess. Although, I will try to improve it when I am free.
 sem-7 is hard i guess :/
----
-#### $$14^{th}$$ Nov'24 (Edit)
-OS has been removed since it is not allowed host it's material publicly.
+
 
